@@ -3,3 +3,7 @@ $titleColor: crimson;
 $TextColorOne: darkorchid;
 $TextColortwo: green;
 
+@mixin invert-color{
+    background-color: #111;
+    color: #eee;
+}

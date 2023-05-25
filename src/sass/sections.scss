@@ -9,4 +9,6 @@ main{
     #section-two{
         color: $TextColortwo;
     }
+    
+    @include invert-color
 }
